@@ -1,6 +1,6 @@
 > Fork 前 README 文件在 [这里](./README-OLD.md)，由于原 README 文件格式问题，主观感情色彩太浓，且无关信息太多，因此修改为本 README。
 
-![封面](./cover.jpg)
+![封面](https://user-images.githubusercontent.com/7275046/77385887-5d9fe900-6dc4-11ea-9f4a-817e7d733291.jpg)
 
 ## 原书介绍（内容来自[京东](https://item.jd.com/12128543.html)）
 
